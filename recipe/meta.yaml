@@ -1,6 +1,6 @@
 {% set name = "segno" %}
-{% set version = "0.3.2" %}
-{% set sha256 = "eef61ecf274549f14145f6cf7b4a6058c4d9e4308d3a0428cbfd98d8367c462a" %}
+{% set version = "0.3.3" %}
+{% set sha256 = "d5657e5a45101d7ceb7e49090780c6c01109e4c5463d57b579348e2aca26fa2f" %}
 
 package:
   name: {{ name|lower }}
@@ -14,7 +14,7 @@ source:
 build:
   noarch: python
   number: 0
-  script: python -m pip install --no-deps --ignore-installed .
+  script: {{ PYTHON }} -m pip install . --no-deps -vv
 
 requirements:
   host:
