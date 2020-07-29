@@ -5,7 +5,7 @@ Home: https://github.com/heuer/segno
 
 Package license: BSD-3 Clause
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: Segno is a QR Code and Micro QR Code encoder which has no further dependencies.
 
