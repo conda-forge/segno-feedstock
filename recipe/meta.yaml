@@ -1,6 +1,6 @@
 {% set name = "segno" %}
-{% set version = "1.0.1" %}
-{% set sha256 = "42b878a8a888bc167edfac0a6afaff074ec5758e7e59bf5b9b506a8295bc0f5e" %}
+{% set version = "1.0.2" %}
+{% set sha256 = "e8e4ac5f5828f23b874f660c9f63fdae0f492c140370892156bda2cf4fb4e2e9" %}
 
 package:
   name: {{ name|lower }}
