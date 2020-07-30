@@ -3,7 +3,7 @@ About segno
 
 Home: https://github.com/heuer/segno
 
-Package license: BSD-3 Clause
+Package license: BSD-3-Clause
 
 Feedstock license: BSD-3-Clause
 
