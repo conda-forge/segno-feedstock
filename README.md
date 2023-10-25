@@ -1,11 +1,11 @@
-About segno
-===========
+About segno-feedstock
+=====================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/segno-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/heuer/segno
 
 Package license: BSD-3-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/segno-feedstock/blob/main/LICENSE.txt)
 
 Summary: Segno is a QR Code and Micro QR Code encoder which has no further dependencies.
 
