@@ -20,11 +20,10 @@ requirements:
   host:
     - pip
     - python
-    - setuptools
 
   run:
     - python >=3.5
-    - setuptools
+    - importlib-metadata # [py<310]
 
 test:
   imports:
