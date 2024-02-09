@@ -20,7 +20,7 @@ requirements:
   host:
     - pip
     - python
-    - flit_core
+    - flit-core
 
   run:
     - python >=3.5
